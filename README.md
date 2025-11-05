@@ -39,9 +39,5 @@ Passerelle par défaut. . . . . . . . . : 10.81.255.254
 ```
 
 3. Donnez à vos ami·es **votre adresse IPv4** (ici `10.81.190.14`)
-   → Ils pourront alors se connecter via :
-
-   ```
-   http://10.81.190.14:3000
-   ```
+   → Ils pourront alors se connecter via celle-ci :)
 
