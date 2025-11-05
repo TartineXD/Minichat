@@ -38,6 +38,6 @@ Masque de sous-réseau. . . . . . . . . : 255.255.0.0
 Passerelle par défaut. . . . . . . . . : 10.81.255.254
 ```
 
-3. Donnez à vos ami·es **votre adresse IPv4** (ici `10.81.190.14`)
+3. Donnez à vos ami·es **votre adresse IPv4** suivie du port de connection (ici `10.81.190.14:3000`)
    → Ils pourront alors se connecter via celle-ci :)
 
